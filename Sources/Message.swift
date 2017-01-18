@@ -19,7 +19,7 @@ public class Message: Serializable {
     public init(subject: String, body: Any) {
         (self.subject, self.body) = (subject, body)
         super.init()
-        create()
+        _ = create()
     }
 
     /**
@@ -30,7 +30,7 @@ public class Message: Serializable {
     public init(message: Any) {
         self.message = message
         super.init()
-        create(single: false)
+        _ = create(single: false)
     }
 
     /**

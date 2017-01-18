@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0810"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,24 +14,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0BFAE4E31DA84F59000B3CD3"
-               BuildableName = "SwiftPhoenixClient.framework"
-               BlueprintName = "SwiftPhoenixClient"
-               ReferencedContainer = "container:SwiftPhoenixClient.xcodeproj">
+               BlueprintIdentifier = "091277961BD673A70003036D"
+               BuildableName = "Starscream.framework"
+               BlueprintName = "Starscream tvOS"
+               ReferencedContainer = "container:Starscream.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
             buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6B3E79E519D48B7F006071F7"
-               BuildableName = "Starscream.framework"
-               BlueprintName = "Starscream iOS"
-               ReferencedContainer = "container:Vendor/Starscream/Starscream.xcodeproj">
+               BlueprintIdentifier = "0912779F1BD673A70003036D"
+               BuildableName = "Starscream tvOSTests.xctest"
+               BlueprintName = "Starscream tvOSTests"
+               ReferencedContainer = "container:Starscream.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0BFAE4EC1DA84F59000B3CD3"
-               BuildableName = "SwiftPhoenixClientTests.xctest"
-               BlueprintName = "SwiftPhoenixClientTests"
-               ReferencedContainer = "container:SwiftPhoenixClient.xcodeproj">
+               BlueprintIdentifier = "0912779F1BD673A70003036D"
+               BuildableName = "Starscream tvOSTests.xctest"
+               BlueprintName = "Starscream tvOSTests"
+               ReferencedContainer = "container:Starscream.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0BFAE4E31DA84F59000B3CD3"
-            BuildableName = "SwiftPhoenixClient.framework"
-            BlueprintName = "SwiftPhoenixClient"
-            ReferencedContainer = "container:SwiftPhoenixClient.xcodeproj">
+            BlueprintIdentifier = "091277961BD673A70003036D"
+            BuildableName = "Starscream.framework"
+            BlueprintName = "Starscream tvOS"
+            ReferencedContainer = "container:Starscream.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,10 +78,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0BFAE4E31DA84F59000B3CD3"
-            BuildableName = "SwiftPhoenixClient.framework"
-            BlueprintName = "SwiftPhoenixClient"
-            ReferencedContainer = "container:SwiftPhoenixClient.xcodeproj">
+            BlueprintIdentifier = "091277961BD673A70003036D"
+            BuildableName = "Starscream.framework"
+            BlueprintName = "Starscream tvOS"
+            ReferencedContainer = "container:Starscream.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -96,10 +96,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0BFAE4E31DA84F59000B3CD3"
-            BuildableName = "SwiftPhoenixClient.framework"
-            BlueprintName = "SwiftPhoenixClient"
-            ReferencedContainer = "container:SwiftPhoenixClient.xcodeproj">
+            BlueprintIdentifier = "091277961BD673A70003036D"
+            BuildableName = "Starscream.framework"
+            BlueprintName = "Starscream tvOS"
+            ReferencedContainer = "container:Starscream.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

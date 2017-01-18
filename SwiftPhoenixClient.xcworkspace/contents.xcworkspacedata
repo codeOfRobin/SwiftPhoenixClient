@@ -7,7 +7,4 @@
    <FileRef
       location = "container:SwiftPhoenixClient.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Vendor/Starscream/Starscream.xcodeproj">
-   </FileRef>
 </Workspace>

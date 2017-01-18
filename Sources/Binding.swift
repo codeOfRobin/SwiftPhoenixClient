@@ -18,7 +18,7 @@ class Binding {
     @discardableResult
     init(event: String, callback: @escaping (Any) -> Void?) {
         (self.event, self.callback) = (event, callback)
-        create()
+		_ = create()
     }
 
     /**
